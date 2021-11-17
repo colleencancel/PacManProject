@@ -1,4 +1,4 @@
-# PacManProject.github.io
+# PacManProject
 Name: 
 PacManProject
 
